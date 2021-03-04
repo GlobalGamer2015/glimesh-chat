@@ -1,4 +1,24 @@
+# Glimesh Chat Example
 
+#### NodeJS
+
+````
+if(msg.message == "!help"){
+	chat.sendMessage("You asked for help?")
+}
+````
+If you type that in your channel, you will get this response as json in your Log.
+````
+{
+    message: 'You asked for help?',
+    user: { id: '1234', username: 'insertBotName' }
+}
+````
+
+# Thanks to CactusDev for creating this.
+
+
+# CactusDev ReadMe
 # Glimesh Chat
 
 Connect to Glimesh's chat servers with ease!
