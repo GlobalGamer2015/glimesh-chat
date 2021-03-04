@@ -1,4 +1,4 @@
-# Glimesh Chat Example
+# Glimesh Chat Command Example
 
 #### NodeJS
 
