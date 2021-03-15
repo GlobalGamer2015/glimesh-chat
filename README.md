@@ -1,3 +1,6 @@
+# Outdated
+Go [here](https://github.com/GlobalGamer2015/Glimesh-Chat-Lib) for updated version for chat bots.
+
 # Glimesh Chat Command Example
 
 #### NodeJS
